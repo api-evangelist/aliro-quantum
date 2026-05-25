@@ -1,0 +1,108 @@
+aid: aliro-quantum
+name: Aliro Quantum
+description: >-
+  Aliro Quantum (branded "Aliro, The Quantum Networking Company") is a
+  Boston-based, Harvard spin-out building full-stack software for
+  entanglement-based quantum networks. Its platform unifies three core
+  products: the Aliro Simulator for physically accurate, optical-level
+  modeling and validation of heterogeneous quantum networks before any
+  hardware is deployed; AlirOS, a vendor-agnostic control-plane operating
+  system that runs on quantum end-nodes and quantum repeaters across
+  multiple hardware modalities; and the Aliro Orchestrator, a centralized
+  single-pane-of-glass management system that configures, monitors, and
+  operates quantum nodes and services through the full network lifecycle.
+  These are packaged commercially as AliroNet — described by Aliro as the
+  world's first end-to-end entanglement-based quantum network solution —
+  delivered in three modes (Emulate, Pilot, and Deployment) and also
+  available as AliroNet Quickstart, a bundled hardware-plus-software
+  starter package that pairs third-party photon sources, detectors,
+  memories, repeaters, and routers with Aliro's orchestration, control,
+  and data operations software. The company markets Quantum-Powered
+  Security as its anchor use case (Harvest-Now-Decrypt-Later mitigation
+  for telcos, utilities, financial services, and defense), alongside
+  quantum-computing interconnects (clustered and blind quantum compute
+  for cloud providers), networked quantum sensors for
+  positioning/navigation/timing, and quantum position verification.
+  Customers and design partners disclosed publicly include EPB of
+  Chattanooga, Boeing, Cisco, the US Air Force, Brookhaven National
+  Laboratory, Stony Brook University, and Noblis. Aliro is backed by
+  deep-tech investors including Cisco Investments and Accenture Ventures,
+  reports more than 50 third-party quantum networking devices already
+  integrated with its stack, and operates with hardware-agnostic
+  positioning across photonic, trapped-ion, neutral-atom, and
+  diamond-defect node technologies. There is no public developer API,
+  SDK, CLI, or open-source repository — the AlirOS APIs referenced in
+  Aliro's product materials are vendor-facing integration interfaces
+  consumed under commercial engagement, and Aliro's GitHub organization
+  carries no public repositories.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Quantum
+  - Quantum Networking
+  - Quantum Communications
+  - Entanglement
+  - Quantum Internet
+  - Quantum Key Distribution
+  - Post-Quantum Security
+  - Quantum Sensors
+  - Quantum Computing Interconnect
+  - Quantum Repeaters
+  - Network Orchestration
+  - Network Simulation
+  - Photonics
+  - Defense
+  - Telecommunications
+url: https://raw.githubusercontent.com/api-evangelist/aliro-quantum/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.aliroquantum.com
+  - type: Solutions
+    url: https://www.aliroquantum.com/solutions
+  - type: Company
+    url: https://www.aliroquantum.com/company
+  - type: AliroNet
+    url: https://www.aliroquantum.com/alironet
+  - type: Simulator
+    url: https://www.aliroquantum.com/aliro-simulator
+  - type: AlirOS
+    url: https://www.aliroquantum.com/aliros
+  - type: Orchestrator
+    url: https://www.aliroquantum.com/aliro-orchestrator
+  - type: QuickStart
+    url: https://www.aliroquantum.com/alironet-quickstart
+  - type: QuantumPoweredSecurity
+    url: https://www.aliroquantum.com/quantum-powered-security
+  - type: Partners
+    url: https://www.aliroquantum.com/partners
+  - type: News
+    url: https://www.aliroquantum.com/news
+  - type: Blog
+    url: https://www.aliroquantum.com/blog
+  - type: Webinars
+    url: https://www.aliroquantum.com/webinars
+  - type: WhitePapers
+    url: https://www.aliroquantum.com/white-papers
+  - type: Research
+    url: https://www.aliroquantum.com/research-and-patents
+  - type: Careers
+    url: https://www.aliroquantum.com/careers
+  - type: Contact
+    url: https://www.aliroquantum.com/contact
+  - type: GitHub
+    url: https://github.com/aliroquantum
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/aliroquantum
+  - type: Twitter
+    url: https://twitter.com/AliroQuantum
+  - type: YouTube
+    url: https://www.youtube.com/@AliroQuantum
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
