@@ -75,7 +75,7 @@ common:
     url: https://www.aliroquantum.com/aliros
   - type: Orchestrator
     url: https://www.aliroquantum.com/aliro-orchestrator
-  - type: QuickStart
+  - type: GettingStarted
     url: https://www.aliroquantum.com/alironet-quickstart
   - type: QuantumPoweredSecurity
     url: https://www.aliroquantum.com/quantum-powered-security
