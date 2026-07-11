@@ -61,6 +61,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/aliro-quantum-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/aliro-quantum-domain-security.yml
   - type: Website
     url: https://www.aliroquantum.com
   - type: Solutions
